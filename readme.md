@@ -17,16 +17,4 @@
 * Punkt 3
 
 ---
-<html lang="Test">
-<head>
-
-<div class="boks1"></div>
-<div class="boks2"></div>
-<div class="boks3"></div>
-<div class="boks4"></div>
-<div class="boks5"></div><title>Test</title>
-
-</head>
-</html>
-
 
